@@ -3,7 +3,7 @@
 ## Introduction:
 Gesture Temple Run is a gaming project aimed at promoting a healthier lifestyle within the gaming community. With an estimated 500+ million players engaging in games like Temple Run, there's a significant opportunity to address the negative effects of excessive screen time and sedentary behavior, particularly among children and teens.
 
-## Purpose and Motto:
+## Motto:
 The main purpose and motto of Gesture Temple Run is to encourage physical activity and healthier habits while gaming, all at minimal cost. Despite the popularity of games like Temple Run, prolonged screen time can lead to various health issues, including physical discomfort and eye strain. By introducing gesture-based controls, we aim to provide a more active gaming experience that minimizes these negative impacts.
 
 ## Target Audience:
