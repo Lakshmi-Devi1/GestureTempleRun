@@ -26,6 +26,11 @@ To install Gesture Temple Run, follow these steps:
 3.opencv2
 4.mediapipe
 
+##Demo Video
+https://github.com/user-attachments/assets/a7276c3f-697b-497d-9949-c60f10e8a299
+
+
+
 ## Usage
 - Stand in an open area with enough space to move around comfortably.
 - Use your body gestures to control your character within the temple run environment.
